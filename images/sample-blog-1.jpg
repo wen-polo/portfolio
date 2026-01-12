@@ -1,0 +1,5 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#1b1b18"/>
+  <text x="200" y="150" text-anchor="middle" fill="#00ff88" font-family="Arial" font-size="24" font-weight="bold">Tutoriel Blender</text>
+  <text x="200" y="180" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="16">Création de personnages 3D</text>
+</svg>
