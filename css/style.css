@@ -1366,11 +1366,24 @@ body {
     .buttons {
         justify-content: center;
         gap: 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .projects-btn {
+        order: 1;
+    }
+
+    .about-btn {
+        order: 2;
+        margin-top: 10px;
     }
 
     .btn {
         padding: 10px 20px;
         font-size: 14px;
+        margin-right: 0;
+        margin-bottom: 0;
     }
 
     .hero-shape {
